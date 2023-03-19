@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1673590541 source:/Users/muhammadmahdi/C++/TubesQueue_array/main.cpp
+	<iostream>
+
+1673590737 source:/Users/muhammadmahdi/C++/TubesQueue_array/queue.cpp
+	"queue.h"
+
+1673590653 /Users/muhammadmahdi/C++/TubesQueue_array/queue.h
+	<iostream>
+	<string>
+
